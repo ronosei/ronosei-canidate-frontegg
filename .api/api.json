@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "apis": [
+    {
+      "identifier": "frontegg",
+      "source": "@frontegg/v2.0.2#18ci4117lwhlp53s",
+      "integrity": "sha512-wgfkTO3RsU0Gz4tc12w2VfMEHgmZjH0rgc9USce8IXnvMGeRvYzP7ADRoA7LjIli32WBkylNO8jwaY7K/Lmlww==",
+      "installerVersion": "6.1.1"
+    }
+  ]
+}
